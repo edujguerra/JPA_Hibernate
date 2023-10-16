@@ -14,7 +14,7 @@ import java.util.List;
 public class CadastroProduto {
     public static void cadastrar(){
         Categoria categoria1 = new Categoria();
-        categoria1.setNome("CELULARES");
+        categoria1.setNome("CELULARES  ");
 
         Categoria categoria2 = new Categoria();
         categoria2.setNome("IPAD");
